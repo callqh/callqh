@@ -8,7 +8,7 @@
 - 🌱 &nbsp; 座右铭：保持热爱，保持年轻，保持学习 .
 - ✍️ &nbsp; 喜欢记录生活，喜欢拍照，喜欢读书，喜欢到处走一走.
 
-<h3 align="center">⭐️ 技术人生 </h3>
+<h3 >  &nbsp; ⭐️ &nbsp; I'm doing </h3>
 
 - **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp; 开源团队开发者** 现 `⭐️ Star: 11k`
 
