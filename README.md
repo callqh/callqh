@@ -1,40 +1,31 @@
-<h2 style="text-align:center"> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center"> Hey! 这里是AKA火热Fire <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>  &nbsp; 👨🏻‍💻  &nbsp; About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; 前端开发仔、卑微铲屎官、非著名掘金作者
+- 🤔 &nbsp; 性格开朗外向，外貌英俊潇洒
+- 🌱 &nbsp; 座右铭：保持热爱，保持年轻，保持学习 .
+- ✍️ &nbsp; 喜欢记录生活，喜欢拍照，喜欢读书，喜欢到处走一走.
 
-<h3>🛠 Tech Stack</h3>
+<h3 align="center">⭐️ 技术人生 </h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp; 开源团队开发者** 现 `⭐️ Star: 11k`
+
+- **[掘金](https://juejin.cn/user/3993025017037309/posts)社区 &nbsp; 有些活跃的非著名作者**
+
+- **[公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5Mjg0MTA3MA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63010029&lang=zh_CN&a8scene=7&fontgear=2) &nbsp; 除了技术还有生活**
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<h4 align="center">👋 现阶段技术栈 </h3>
 
-</br>
+- 💻 &nbsp; JavaScript | TypeScript | React | Node  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+- 🔧 &nbsp; webpack
 
 
-<h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+
+
