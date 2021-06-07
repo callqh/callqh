@@ -12,7 +12,10 @@
 
 - **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp; 开源项目团队开发者（欢迎大家使用和Star）** 现 `⭐️ Star: 11.8k`
 
-- **[掘金](https://juejin.cn/user/3993025017037309/posts)社区 &nbsp; 有些活跃的非著名作者**
+- **[掘金](https://juejin.cn/user/3993025017037309/posts)社区 &nbsp; 偶尔会发一些**
+
+
+- **[语雀笔记](https://www.yuque.com/callmew) &nbsp; 之前的笔记记得那都是，之后会整理一下。记录、复盘，让学习有迹可循 **
 
 - **[公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5Mjg0MTA3MA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63010029&lang=zh_CN&a8scene=7&fontgear=2) &nbsp; 除了技术还有生活**
 
