@@ -10,7 +10,7 @@
 
 <h3 >  &nbsp; ⭐️ &nbsp; I'm doing </h3>
 
-- **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp; 开源项目团队开发者（欢迎大家使用和Star）** 现 `⭐️ Star: 11.8k`
+- **[wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp; 开源项目团队开发者（欢迎大家使用和Star）** 现 `⭐️ Star: 12.1k`
 
 - **[掘金](https://juejin.cn/user/3993025017037309/posts)社区 &nbsp; 偶尔会发一些**
 
