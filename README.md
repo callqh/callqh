@@ -1,7 +1,7 @@
 <h2 align="center"> 你我山巅自相逢，予你与我遇清风  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p >
-  <a  href="http://www.liuqh.cn"><img align="center" src="http://qiniu.liuqh.cn/banner1.jpg" width="610"></img></a>
+  <a  href="http://www.liuqh.cn"><img align="right" src="http://qiniu.liuqh.cn/banner1.jpg" width="520"></img></a>
 </p>
 
 <h3 >  &nbsp; ⭐️ &nbsp; 个人简介（profile） </h3>
