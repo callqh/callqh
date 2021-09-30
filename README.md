@@ -1,7 +1,7 @@
 <h2 align="center"> 你我山巅自相逢，予你与我遇清风  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p align="center">
-  <a  href="http://www.liuqh.cn"><img align="right" src="http://qiniu.liuqh.cn/banner1.jpg" width="521"></img></a>
+  <a  href="http://www.liuqh.cn"><img align="center" src="http://qiniu.liuqh.cn/banner1.jpg"></img></a>
 </p>
 
 <h3 >  &nbsp; ⭐️ &nbsp; 个人简介（profile） </h3>
@@ -13,11 +13,9 @@
 - 🌱 &nbsp; 座右铭：保持热爱 奔赴山海.
 
 <br>
-<br>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+
 <h3 >  &nbsp; ⭐️ &nbsp; 在做的（doing） </h3>
-
 
 - [wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp; 开源项目团队开发者（欢迎大家使用和Star）
 
@@ -28,7 +26,7 @@
 
 <br>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&layout=compact" />
+
 <h3 >👋 技术栈 </h3>
 
 - 💻 &nbsp; JavaScript | TypeScript | React | Node  
@@ -37,8 +35,10 @@
 
 - 🔭 &nbsp; Rust
 
+<p align="center">
+    <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 
-
-
-
+</p>
 
