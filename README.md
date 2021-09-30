@@ -36,9 +36,9 @@
 - 🔭 &nbsp; Rust
 
 <p align="center">
-    <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=liuqh0609&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+    <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqh0609&show_icons=true" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&show_icons=true" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=liuqh0609&show_icons=true" />
 
 </p>
 
