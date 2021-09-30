@@ -1,7 +1,7 @@
 <h2 align="center"> 你我山巅自相逢，予你与我遇清风  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<p align="center">
-  <a  href="http://www.liuqh.cn"><img align="center" src="http://qiniu.liuqh.cn/banner1.jpg"></img></a>
+<p >
+  <a  href="http://www.liuqh.cn"><img align="center" src="http://qiniu.liuqh.cn/banner1.jpg" width="610"></img></a>
 </p>
 
 <h3 >  &nbsp; ⭐️ &nbsp; 个人简介（profile） </h3>
@@ -26,19 +26,9 @@
 
 <br>
 
-
-<h3 >👋 技术栈 </h3>
-
-- 💻 &nbsp; JavaScript | TypeScript | React | Node  
-
-- 🔧 &nbsp; webpack | vite | rollup
-
-- 🔭 &nbsp; Rust
-
-<p align="center">
-    <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqh0609&show_icons=true" />
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&show_icons=true" />
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=liuqh0609&show_icons=true" />
-
+<p >
+<!--   <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqh0609&show_icons=true" /> -->
+  <img  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&show_icons=true" />
+<!--   <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=liuqh0609&show_icons=true" /> -->
 </p>
 
