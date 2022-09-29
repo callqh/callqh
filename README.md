@@ -21,9 +21,9 @@
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Open source projects currently involved: [wangEditor](https://github.com/wangeditor-team/wangEditor) &nbsp;/&nbsp;[wangEditor-for-vue3](https://github.com/wangeditor-team/wangEditor-for-vue3).<br>
 
 <div align="center" >
-  <a  href="http://www.liuqh.cn"><img  src="http://qiniu.liuqh.cn/banner1.jpg" height="186"></img></a> 
+  <a  href="http://www.liuqh.cn"><img  src="http://qiniu.liuqh.cn/banner1.jpg" height="166"></img></a> 
   <a  href="https://github.com/liuqh0609">
-    <img  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&show_icons=true" height="186"/>
+    <img  src="https://github-readme-stats.vercel.app/api/?username=liuqh0609&show_icons=true" height="166"/>
   </a>
 </div>
   <br>
