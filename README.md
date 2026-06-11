@@ -4,7 +4,8 @@
 
 <h4 align="center">“Per aspera ad astra”</h4>
 
-<h3 align="center">I am a front-end developer.</h3>
+<h3 align="center">Full Stack AI Developer.</h3>
+<h3 align="center">Nothing is impossible in the AI era..</h3>
 
 <h5 align="center">
  <a  href="https://www.yuque.com/callmew/blog">Go Blog</a> 
